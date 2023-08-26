@@ -25,7 +25,7 @@ Homework 1
 
 git status 
 
-### b.	Add individual files or globally
+###	Add individual files or globally
 
 
 git add filename
