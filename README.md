@@ -23,10 +23,32 @@ Homework 1
 
 ### Check Repository Status
 
-To check the status of your local repository, use:
+(```bash)
+git status 
 
-```bash
-git status
+### b.	Add individual files or globally
 
-## Add Files to Staging Area
-To add individual files to the staging area, use:
+
+git add filename
+
+### Add Comments to Commit
+
+git commit -m "Your commit message here"
+
+### Upload Changes to Remote Repository
+
+git push origin branch-name
+
+### Create, Browse, and Delete Branches
+
+new branch: git checkout -b new-branch-name
+switch to an existing branch: git checkout branch-name
+list all branches: git branch
+delte a branch: git branch -d branch-name
+
+### Roll Back to a Specific Commit
+
+git reset --hard commit-hash
+
+
+
