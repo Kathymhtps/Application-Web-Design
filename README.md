@@ -23,7 +23,6 @@ Homework 1
 
 ### Check Repository Status
 
-(```bash)
 git status 
 
 ### b.	Add individual files or globally
