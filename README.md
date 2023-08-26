@@ -17,3 +17,16 @@ Markdown is a lightweight markup language that allows you to format plain text d
 
 With Markdown, you can easily create headings, lists, links, images, and more, using a straightforward syntax. It's a convenient way to add structure and style to your documents without needing to learn complex HTML or other formatting languages.
 
+## Git Commands
+
+Homework 1 
+
+### Check Repository Status
+
+To check the status of your local repository, use:
+
+```bash
+git status
+
+## Add Files to Staging Area
+To add individual files to the staging area, use:
