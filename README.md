@@ -10,10 +10,10 @@
 
 - **Subject Name:** Diseño de aplicaciones web
 - **Professor:** Manuel Alejandro García Andrade
-   **Technologies I Handle:**
+
+  -**Technologies I Handle:**
   - JavaScript
   - HTML/CSS
-  - React
   - Node.js
   - MongoDB
 
