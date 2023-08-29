@@ -51,8 +51,9 @@ git status
 
 ###	Add individual files or globally
 
+git add .
+git commit -m "Initial commit"
 
-git add filename
 
 ### Add Comments to Commit
 
