@@ -10,7 +10,31 @@
 
 - **Subject Name:** Diseño de aplicaciones web
 - **Professor:** Manuel Alejandro García Andrade
+   **Technologies I Handle:**
+  - JavaScript
+  - HTML/CSS
+  - React
+  - Node.js
+  - MongoDB
 
+- **Technologies I'm Learning:**
+  - TypeScript
+  - Phyton
+  - Hadoop
+
+- **Goals at the End of My Degree:**
+  My goal is to contribute to open-source projects and work on projects that make a positive impact on society. 
+
+## Creating a Local Repository and Uploading to GitHub
+
+Here's a step-by-step guide on how to create a local repository and upload it to GitHub:
+
+1. **Initialize Git Repository:**
+   Open your terminal and navigate to your project folder. Run:
+
+   ```bash
+   git init
+   
 ## About Markdown
 
 Markdown is a lightweight markup language that allows you to format plain text documents in a simple and readable way. It's widely used for creating documentation, README files, and even blog posts. Markdown uses a combination of plain text and special characters to define how text should be formatted when displayed as HTML or other rich text formats.
